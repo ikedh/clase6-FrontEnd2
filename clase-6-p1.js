@@ -41,7 +41,7 @@ const albumesFamosos = [{
 {
     id: "z789",
     nombre: "The wall",
-    imagen: "https://img.discogs.com/EbLYco6R1A-5Z7QJ4t4O1JSzsM8=/fit-in/587x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4620059-1370165707-3841.jpeg.jpg",
+    imagen: "https://musicaficionado.blog/wp-content/uploads/2019/11/The-Wall-front-cover.jpg",
     like: false
 },
 {
